@@ -1,5 +1,5 @@
-http://173.69.150.38:8080/video/mjpg.cgi
-http://69.85.29.24/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER
-http://69.85.29.21/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER
-http://205.215.255.11/mjpg/video.mjpg
-http://69.85.29.20/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER
+http://173.69.150.38:8080/video/mjpg.jpg
+http://69.85.29.24/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER.jpg
+http://69.85.29.21/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER.jpg
+http://205.215.255.11/mjpg/video.mjpg.jpg
+http://69.85.29.20/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER.jpg
